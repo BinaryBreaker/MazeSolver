@@ -17,7 +17,7 @@ pip install numpy opencv-python
 ```
 
 ## ScreenShots
-| Hashed  | Solved |  Png |  Solved |
+| Unsolved  | Solved |  Unsolved |  Solved |
 | ------- | ------- |  ------- |  ------- |
 |<img src="https://github.com/BinaryBreaker/MazeSolver/raw/master/screenshots/img_1.png" alt="maze screenshot" width="500">|<img src="https://github.com/BinaryBreaker/MazeSolver/raw/master/screenshots/img.png" alt="maze screenshot" width="500">|<img src="https://github.com/BinaryBreaker/MazeSolver/raw/master/screenshots/img_2.png" alt="maze screenshot" width="500">|<img src="https://github.com/BinaryBreaker/MazeSolver/raw/master/screenshots/img_3.png" alt="maze screenshot" width="500">|
 
